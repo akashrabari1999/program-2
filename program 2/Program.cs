@@ -39,3 +39,12 @@ namespace TextAnalysisTools
                 nextWord = words[y + 1];
 
             }
+            return currentWord;
+
+        }
+
+
+
+
+    }
+}
